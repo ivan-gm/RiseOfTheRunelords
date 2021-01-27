@@ -184,7 +184,6 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Creatures:**
     - Any goblins that fled part 1 join Tsuto here
     - [Tsuto PDF](./Statblocks/Tsuto.pdf)
-    ![Tsuto PNG](./Statblocks/Tsuto.png)
 
   - **XP:** 
     - 120xp + 20xp per goblin who joined.
@@ -230,8 +229,6 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Creatures:**
     - [Vargouille PDF](./Statblocks/Vargouille.pdf)  
 
-    ![Vargouille PNG](./Statblocks/Vargouille.png)
-
     - Alternatively replace with [animated statue of Lamashtu](https://2e.aonprd.com/Monsters.aspx?ID=20) with the same trigger conditions.
 
 ### B6. Ancient Prison (80xp, moderate threat)
@@ -249,7 +246,6 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Creatures:**
     - 11x [Zombie Shambler](https://2e.aonprd.com/Monsters.aspx?ID=423)
     - [Koruvus PDF](./Statblocks/Koruvus.pdf)
-    ![Koruvus PNG](./Statblocks/Koruvus.png)
 
   - **Loot:**
     - [Low Grade Silver Dagger](https://2e.aonprd.com/Equipment.aspx?ID=379) (P2)
@@ -282,7 +278,6 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Creatures:**
     - [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371)
     - [Erylium PDF](./Statblocks/Erylium.pdf)
-    ![Erylium PNG](./Statblocks/Erylium.png)
 
     - Note that to stay flying Erylium must use at least one fly move action per turn. 
     - There are several ornamental wall features around the room she can fly between and perch on, though these are not large enough to give her cover. 
@@ -317,9 +312,7 @@ There is no spare treasure. If your players miss something early on in the adven
   - Note that Gogmurt might be a good choice to start a goblin PC if that is wanted in your campaign. 
   - **Creatures:**
     - [Gogmurt PDF](./Statblocks/Gogmurt.pdf)
-    ![Gogmurt PNG](./Statblocks/Gogmurt.png)
     - [Tangletooth PDF](./Statblocks/Tangletooth.pdf)
-    ![Tangletooth PNG](./Statblocks/Tangletooth.png)
 
   - **Tactics:** Replace the before combat and during combat tactics as follows:
     - Before Combat: Gogmurt's leshy familiar Rooty is scouting above the briars, though spends more time enjoying flying on the breeze than scouting. If forewarned by Rooty or by combat elsewhere, Gogmurt uses his terrain stalker ability to watch the PCs to gauge their capabilities in combat and to judge whether to use his shield. When ready Gogmurt casts Shillagh on his mace. He sends Rooty to the island to deliver a bloodstained goblin tooth to Warchief Ripnugget — a prearranged code to warn that the adventurers have finally arrived to murder them all. Gogmurt calls Tangletooth to his side and directs her in combat using command an animal.
@@ -387,7 +380,6 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - **Creatures:**
     - [Chief Ripnugget PDF](./Statblocks/ChiefRipnugget.pdf)  
-    ![Chief Ripnugget PNG](./Statblocks/ChiefRipnugget.png)  
     - [Giant Gecko](https://2e.aonprd.com/Monsters.aspx?ID=288)
     - 3x [Goblin Commando](http://2e.aonprd.com/Monsters.aspx?ID=233)
     - 1x [Goblin Warchanter](http://2e.aonprd.com/Monsters.aspx?ID=235)
@@ -422,7 +414,6 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Creatures:**
     - 4x [Goblin Warriors](http://2e.aonprd.com/Monsters.aspx?ID=232)
     - [Bruthazmus PDF](./Statblocks/Bruthazmus.pdf)  
-    ![Bruthazmus PNG](./Statblocks/Bruthazmus.png)
     - **Loot:**
       - [Biting Snare](https://2e.aonprd.com/Equipment.aspx?ID=329) (C4)
       - [Climbing Bolt](https://2e.aonprd.com/Equipment.aspx?ID=160) (C4)
@@ -433,7 +424,6 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - **Creatures:**
     - [ Orik Vancaskerkin PDF](./Statblocks/OrikVancaskerkin.pdf)  
-    ![ Orik Vancaskerkin PNG](./Statblocks/OrikVancaskerkin.png)
   - **Tactics:**
     - If his HP drop below half or his shield breaks, Orik can be persuaded to fight with the PCs or to just leave.
   - **Loot:**
@@ -445,7 +435,6 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - **Creatures:**
     - 1x [Tentamort PDF](./Statblocks/Tentamort.pdf)  
-    ![Tentamort PNG](./Statblocks/Tentamort.png)
 
 ### D12. Chapel to Lamashtu (80xp, moderate threat)
 
@@ -456,7 +445,6 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - **Creatures:**
     - [Lyrie Akenja PDF](./Statblocks/LyrieAkenja.pdf)  
-    ![Lyrie Akenja PNG](./Statblocks/LyrieAkenja.png)
 
   - **Tactics** 
     - Lyrie has chosen Skivver's familiar abilites of darkvision and scent to give her warning of any approach
@@ -486,7 +474,6 @@ There is no spare treasure. If your players miss something early on in the adven
   - **Creatures:**
     - [Yeth Hound](https://2e.aonprd.com/Monsters.aspx?ID=870)
     - [Nualia PDF](./Statblocks/Nualia.pdf) 
-    ![Nualia PNG](./Statblocks/Nualia.png) 
 
   - **Tactics**
     - Before combat: If forewarned: Nualia uses the Sihedron Medallion to cast False Life, then casts Protection (either Good of Lawful, depending on what she knows about the party), and finally Spiritual Weapon, though she is unlikely to be able to sustain it for long.
@@ -512,7 +499,6 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - **Creatures:**
     - [Giant Hermit Crab PDF](./Statblocks/GiantHermitCrab.pdf)
-    ![Giant Hermit Crab PNG](./Statblocks/GiantHermitCrab.png)
 
   - **Loot:**
     - Divide all book treasure values by 20
