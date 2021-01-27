@@ -1,5 +1,8 @@
 # RotR Burnt Offerings (Level 1-4)
 
+[Part 4](#thistletop)
+
+
 ## Conversion Guide for Pathfinder second edition (2E)
 
   - This conversion guide only covers the items that have changed in 2E. This includes NPCs and creatures, hazards, XP, treasure, and occassionally tactics where they don't convert well from 1E.
@@ -291,6 +294,7 @@ There is no spare treasure. If your players miss something early on in the adven
 
   - for eliminating the threat the catacombs pose to Sandpoint, award 30xp
 
+<a name="thistletop"></a>
 ## Part 4A. Thistletop Approach (500xp, assumed party level 2)
 
   - A full frontal assault would be a serious mistake for the party. The encounters here require bypassing, splitting or neutralizing and at all costs to avoid them running together.
